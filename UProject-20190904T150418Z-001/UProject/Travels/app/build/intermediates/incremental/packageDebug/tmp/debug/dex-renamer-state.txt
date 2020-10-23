@@ -1,0 +1,4 @@
+#Wed Sep 11 00:35:33 IST 2019
+base.0=C\:\\Users\\user\\Desktop\\UProject-20190904T150418Z-001\\UProject\\Travels\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
